@@ -1,8 +1,11 @@
 # 🚀 Data_Flow_2025
 ## 📖 Tài liệu
 - [NHẬP MÔN HỌC MÁY VÀ KHAI PHÁ DỮ LIỆU](https://users.soict.hust.edu.vn/khoattq/ml-dm-course/IT3190-Tai-lieu-doc.pdf)
-- [Python for Data Analysis]https://drive.google.com/drive/folders/1bJYEMpHThBRq09JOpE7WawY9LpXm01C8?fbclid=IwAR1RLdrlcjerA5MuqOJbfd77xZPc5BB_BuiL1twOUDOaKBpa_aggKN9i_Q0
+- [Python for Data Analysis](https://drive.google.com/drive/folders/1bJYEMpHThBRq09JOpE7WawY9LpXm01C8?fbclid=IwAR1RLdrlcjerA5MuqOJbfd77xZPc5BB_BuiL1twOUDOaKBpa_aggKN9i_Q0)
+- [Python for Everybody (PY4E)](https://www.py4e.com/lessons)
 - [Dự án mẫu 1](https://github.com/HungTrinhIT/FinalProject-Datascience/tree/main)
+- [Dự án mẫu 2](https://github.com/vlozg/DoAn_CuoiKy_DataScience/tree/main)
+- [DSTC 2024](https://drive.google.com/drive/folders/1t5PxeTFVlz3r0yGdyEVuWNsPHDQBHuTp)
 ## 🛠️ Tóm tắt kiến thức
 ### 1. Python cơ bản
 Đây là kiến thức về Python cơ bản.
@@ -616,11 +619,7 @@ không?
 • Xây dựng các đồ thị, biểu đồ để có thể trả lời câu hỏi đặt ra 
 • Xem xét các kết quả và đặt ra các câu hỏi mớ
 
-```bash
-# Clone repo
-git clone https://github.com/user/repo.git
-
-# Cài đặt thư viện cần thiết
+....Continue
 pip install -r requirements.txt
 
 # Chạy chương trình
