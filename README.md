@@ -8,7 +8,7 @@
 - [DSTC 2024](https://drive.google.com/drive/folders/1t5PxeTFVlz3r0yGdyEVuWNsPHDQBHuTp)
 ## 🛠️ Tóm tắt kiến thức
 ### 1. Python cơ bản
-Đây là kiến thức về Python cơ bản.
+Đây là kiến thức về [Python cơ bản](https://colab.research.google.com/drive/1HgkA59kEL2JPlZQj5X4CXN_ZbhqXkWTt?usp=share_link#scrollTo=-z2wmrmbyzng).
 ### 2. Data Science
 - **Mục đích DS:** 
   - Các mục tiêu cuối cùng của khoa học dữ liệu có thể được gom thành:
