@@ -620,9 +620,5 @@ không?
 • Xem xét các kết quả và đặt ra các câu hỏi mớ
 
 ....Continue
-pip install -r requirements.txt
 
-# Chạy chương trình
-python main.py
-```
 
