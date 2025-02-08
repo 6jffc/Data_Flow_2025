@@ -1,6 +1,8 @@
 # 🚀 Data_Flow_2025
 ## 📖 Tài liệu
 - [NHẬP MÔN HỌC MÁY VÀ KHAI PHÁ DỮ LIỆU](https://users.soict.hust.edu.vn/khoattq/ml-dm-course/IT3190-Tai-lieu-doc.pdf)
+- [Python for Data Analysis]https://drive.google.com/drive/folders/1bJYEMpHThBRq09JOpE7WawY9LpXm01C8?fbclid=IwAR1RLdrlcjerA5MuqOJbfd77xZPc5BB_BuiL1twOUDOaKBpa_aggKN9i_Q0
+- [Dự án mẫu 1](https://github.com/HungTrinhIT/FinalProject-Datascience/tree/main)
 ## 🛠️ Tóm tắt kiến thức
 ### 1. Python cơ bản
 Đây là kiến thức về Python cơ bản.
