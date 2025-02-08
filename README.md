@@ -3,7 +3,7 @@
 - [NHẬP MÔN HỌC MÁY VÀ KHAI PHÁ DỮ LIỆU](https://users.soict.hust.edu.vn/khoattq/ml-dm-course/IT3190-Tai-lieu-doc.pdf)
 ## 🛠️ Tóm tắt kiến thức
 ### 1. Python cơ bản
-Đây là kiến thức về Python tóm tắt [Click]{}
+Đây là kiến thức về Python cơ bản.
 ### 2. Data Science
 - **Mục đích DS:** 
   - Các mục tiêu cuối cùng của khoa học dữ liệu có thể được gom thành:
